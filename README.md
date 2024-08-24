@@ -26,5 +26,22 @@ Compared to previous assignments, this project required a more comprehensive app
 * Web development: Creating a user-friendly dashboard using a web framework.
 * Integration: Connecting the database and dashboard components to enable data visualization and interaction.
 
+To create databases that meet other client requests effectively, I would use the following techniques and strategies:
+* Modeling: Use entity-relationship diagrams (ERDs) or other modeling techniques to visually represent the data structure and relationships.
+* Normalization: Ensure data is stored in a consistent and efficient manner by following normalization principles.
+* Indexing: Create indexes on frequently queried fields to improve query performance.
+* Query Optimization: Use techniques like query rewriting, caching, and materialized views to optimize database queries.
+* Scalability: Consider scalability factors when designing the database, such as partitioning, replication, and sharding.
+* Security: Implement security measures to protect sensitive data, including authentication, authorization, and encryption.
+
 #### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists are problem-solvers who utilize their expertise in computer science principles to design, develop, and implement software solutions. What computer scientists do matters because computer science has become an integral part of our modern world, influencing nearly every aspect of our lives. Computer scientists employ their problem-solving skills to address complex challenges in various fields, such as healthcare, education, and environmental science.
+
+My work of this type of project can help a company like Grazioso Salvare do their work better by:
+ * creating robust databases and user-friendly dashboards to address key challenges.
+ * providing a centralized location for storing and organizing information about dogs, shelters, and rescue operations.
+ * providing quick and easy access to data, enabling Grazioso Salvare to make informed decisions.
+   
+The dashboard can be used to analyze data and identify trends, such as the most effective rescue methods or the breeds most suited for search-and-rescue. The database and dashboard also provide data-driven insights that can help Grazioso Salvare make more informed decisions about dog selection, training, and deployment. Finally, the database and dashboard provide a central location for sharing information among staff, volunteers, and partners. Ultimately, the web application dashboard can help Grazioso Salvare achieve significant improvements in data management, decision making, efficiency, and communication.
 
