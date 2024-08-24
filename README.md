@@ -19,6 +19,12 @@ The CRUD Python module could be used in various future projects, including:
 
 #### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
+I approach problems systematically and analytically by breaking them down into smaller, more manageable tasks. This approach is referred to as divide and conquer.
+
+Compared to previous assignments, this project required a more comprehensive approach, involving:
+* Database design: Designing a database schema to efficiently store and manage large amounts of data.
+* Web development: Creating a user-friendly dashboard using a web framework.
+* Integration: Connecting the database and dashboard components to enable data visualization and interaction.
 
 #### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
